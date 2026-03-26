@@ -33,6 +33,7 @@ cardio_digital_twin_project/
 │   ├── processed/
 │
 ├── notebooks/
+│   ├── 00_dataset.ipynb
 │   ├── 01_data_loading.ipynb
 │   ├── 02_preprocessing.ipynb
 │   ├── 03_eda_visualization.ipynb
@@ -40,7 +41,8 @@ cardio_digital_twin_project/
 │   ├── 05_model_building.ipynb
 │   ├── 06_training.ipynb
 │   ├── 07_evaluation.ipynb
-│   └── 09_prediction_demo.ipynb
+│   ├── 08_prediction_demo.ipynb
+│   └── 09_advanced_metrics.ipynb
 │
 ├── models/
 │   ├── lr_model.pkl
