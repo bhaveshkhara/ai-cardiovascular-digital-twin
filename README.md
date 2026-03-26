@@ -54,6 +54,7 @@ cardio_digital_twin_project/
 │   ├── metrics/
 │
 └── README.md
+└── requirements.txt
 ```
 
 ---
